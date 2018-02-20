@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-=======
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = "https://www.example.com/"
@@ -217,4 +212,3 @@ title = "UIL"
   linkedin = "#"
   instagram = "#"
   
->>>>>>> 611d813a32e05f0bc0a1defc7094f6ae909b6411
