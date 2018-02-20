@@ -11,7 +11,7 @@ title = "UIL"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "themes/hugo-icon/images/hero_bg.jpg"
+  img = "images/hero_bg.jpg"
   title = "Urban Informatics Lab"
   description = "Data analysis and imaging for the future. [Learn more...](#)"
 
@@ -32,13 +32,13 @@ title = "UIL"
     enable = true
 
     [[params.mission.images.list]]
-      img = "themes/hugo-icon/images/img_3.jpg"
+      img = "images/img_3.jpg"
     [[params.mission.images.list]]
-      img = "themes/hugo-icon/images/img_2.jpg"
+      img = "images/img_2.jpg"
     [[params.mission.images.list]]
-      img = "themes/hugo-icon/images/img_1.jpg"
+      img = "images/img_1.jpg"
     [[params.mission.images.list]]
-      img = "themes/hugo-icon/images/img_4.jpg"
+      img = "images/img_4.jpg"
 
   [[params.mission.item]]
     weight = 1
